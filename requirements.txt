@@ -1,0 +1,6 @@
+openai
+streamlit
+gtts
+pyttsx3
+streamlit-webrtc
+langdetect
